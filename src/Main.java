@@ -7,5 +7,10 @@ public class Main {
         System.out.println("q3454gttrvb");
 
 
+
+        //********************* prson 1*****************
+        System.out.println("person ");
+        System.out.println("person0000001");
+        System.out.println("person 0000111111111");
     }
 }
